@@ -13,7 +13,7 @@ This capstone project integrates knowledge of React components, passing state, a
 ![Screenshot 2022-03-29 at 10 09 46 AM](https://user-images.githubusercontent.com/29788431/160518681-5acbf343-0395-405f-8bc2-8b730cf196ad.png)
 
 3. Saving playlist to Spotify account
-
+![Screenshot 2022-03-29 at 10 13 18 AM](https://user-images.githubusercontent.com/29788431/160518937-61091b89-02f2-4ed6-af0b-b513d4fad313.png)
 
 ## Available Scripts
 
