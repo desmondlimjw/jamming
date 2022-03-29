@@ -6,6 +6,10 @@ This capstone project integrates knowledge of React components, passing state, a
 
 ## Screenshots
 
+1. Landing page
+![Screenshot 2022-03-29 at 9 54 40 AM](https://user-images.githubusercontent.com/29788431/160518295-316aaf0c-d68f-4661-b529-7672a3e12b6a.png)
+
+2. Searching the Spotify library and creating a custom playlist
 
 ## Available Scripts
 
