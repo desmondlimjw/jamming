@@ -27,8 +27,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Note: Replace clientId in src/util/Spotify.js as accessed from https://developer.spotify.com/dashboard/applications
 
 ## Credits
-Codecademy
-Generation Singapore
-Spotify
+* Codecademy
+* Generation Singapore
 * Spotify Authentication guide: https://developer.spotify.com/documentation/general/guides/authorization/
 * Spotify Web API reference: https://developer.spotify.com/documentation/web-api/reference/#/
