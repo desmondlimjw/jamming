@@ -1,4 +1,4 @@
-const clientId = "583bd2f127674b06b51ab30d08fbc030";
+const clientId = ""; //Replace clientID as accessed from https://developer.spotify.com/dashboard/applications
 const redirectUri = "http://localhost:3000/";
 
 let accessToken;
